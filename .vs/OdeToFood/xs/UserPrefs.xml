@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{16EABF6B-BC34-4BD5-A1C2-DD04FA07C223}|Default">
+  <MonoDevelop.Ide.ItemProperties.OdeToFood PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OdeToFood.Data/IRestaurantData.cs">
+    <Files>
+      <File FileName="OdeToFood/Pages/About.cshtml.cs" Line="1" Column="1" />
+      <File FileName="OdeToFood/Pages/About.cshtml" Line="12" Column="8" />
+      <File FileName="OdeToFood/Pages/_Layout.cshtml" Line="11" Column="23" />
+      <File FileName="OdeToFood/Pages/Restaurants/List.cshtml" Line="10" Column="5" />
+      <File FileName="OdeToFood/Pages/Restaurants/List.cshtml.cs" Line="13" Column="48" />
+      <File FileName="OdeToFood/appsettings.json" Line="7" Column="5" />
+      <File FileName="OdeToFood.Core/Restaurant.cs" Line="9" Column="48" />
+      <File FileName="OdeToFood.Core/CuisineType.cs" Line="1" Column="1" />
+      <File FileName="OdeToFood.Data/IRestaurantData.cs" Line="6" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OdeToFood.Data FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.OdeToFood.Core FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
